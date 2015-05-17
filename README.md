@@ -5,7 +5,7 @@ version3
 
 index.htmls - 雛形
 
-options.html - オプション変更のサンプル
+options.html - オプション変更
 
 #Author
 Fumihiko Akagi
