@@ -6,6 +6,8 @@ version3
 ###Maps
 index.html - 雛形
 
+infowindow.html - 情報ウィンドウ表示
+
 options.html - マップオプション変更
 
 ###Marker
