@@ -15,6 +15,8 @@ marker.html - マーカー表示
 
 marker_click.html - クリック位置にマーカー表示
 
+marker_infowindow.html - マーカーと情報ウィンドウの連動
+
 marker_options.html - マーカーオプション変更(マーカー画像の変更)
 
 ###Adress
