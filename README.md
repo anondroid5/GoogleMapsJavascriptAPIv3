@@ -32,4 +32,4 @@ adress_move.html - 住所を入力後に地図移動
 Fumihiko Akagi
 
 #Copyright
-MIT
+The MIT License
