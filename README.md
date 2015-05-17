@@ -8,7 +8,7 @@ index.htmls - 雛形
 options.html - オプション変更のサンプル
 
 #Author
-Gen Taguchi
+Fumihiko Akagi
 
 #Copyright
 MIT
