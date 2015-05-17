@@ -9,7 +9,9 @@ marker.html - マーカー表示
 
 marker_click.html - クリックした位置にマーカー表示
 
-options.html - オプション変更
+marker_options.html - マーカーのオプション変更(マーカー画像変更)
+
+options.html - マップのオプション変更
 
 #Author
 Fumihiko Akagi
