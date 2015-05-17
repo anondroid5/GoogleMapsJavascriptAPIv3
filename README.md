@@ -22,6 +22,8 @@ adress.html - 現在地マップ表示
 
 adress_click.html - クリック位置に住所表示
 
+adress_latlng.html - 住所を緯度経度に変換後表示
+
 #Author
 Fumihiko Akagi
 
