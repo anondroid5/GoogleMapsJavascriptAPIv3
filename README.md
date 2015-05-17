@@ -4,7 +4,7 @@ version3
 #Detail
 
 ###Maps
-index.html - 雛形
+index.html - default map
 
 infowindow.html - 情報ウィンドウ表示
 
