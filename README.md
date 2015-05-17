@@ -3,7 +3,7 @@ version3
 
 #Detail
 
-index.htmls - 雛形
+index.html - 雛形
 
 options.html - オプション変更
 
