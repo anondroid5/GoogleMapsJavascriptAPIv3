@@ -1,5 +1,5 @@
 # GoogleMapsJavascriptAPIv3
-version3
+version 3
 
 #Detail
 
