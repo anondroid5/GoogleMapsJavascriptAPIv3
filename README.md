@@ -7,7 +7,7 @@ version 3
 This library tested on
 
 - Google Chrome 42
-- Mozilla Firefox
+- Mozilla Firefox 38.0.1
 - IE11
 
 #Details
