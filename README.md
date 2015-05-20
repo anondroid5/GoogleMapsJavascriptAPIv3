@@ -1,7 +1,7 @@
 # GoogleMapsJavascriptAPIv3
 version 3
 
-#Detail
+#Details
 
 ###Maps
 index.html - default map
