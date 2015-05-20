@@ -3,6 +3,13 @@ version 3
 
 <img src="./Raw/images/GoogleMapsAPI.png" width="500" alt="GoogleMapsAPI">
 
+#Environment
+This library tested on
+
+- Google Chrome 42
+- Mozilla Firefox
+- IE11
+
 #Details
 
 ###Maps
