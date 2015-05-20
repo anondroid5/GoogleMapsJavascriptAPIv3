@@ -1,7 +1,7 @@
 # GoogleMapsJavascriptAPIv3
 version 3
 
-<img src="./Raw/images/GoogleMapsAPI.png" alt="GoogleMapsAPI">
+<img src="./Raw/images/GoogleMapsAPI.png" width="500" alt="GoogleMapsAPI">
 
 #Details
 
