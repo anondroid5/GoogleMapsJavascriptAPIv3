@@ -2,8 +2,6 @@
 [![Version](https://img.shields.io/badge/version-v3-blue.svg?style=flat)]()
 [![License](https://img.shields.io/badge/license-MIT-lightgrey.svg?style=flat)](http://opensource.org/licenses/MIT)
 
-version 3
-
 <img src="./Raw/images/GoogleMapsAPI.png" width="500" alt="GoogleMapsAPI">
 
 #Environment
