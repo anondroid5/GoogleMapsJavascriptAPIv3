@@ -39,13 +39,13 @@ adress_latlng.html - 住所を緯度経度に変換後表示
 adress_move.html - 住所を入力後に地図移動
 
 #Author
-Fumihiko Akagi
+Fumihiko Akaki
 
 #Copyright
   
     The MIT License
 
-    Copyright (c) 2015 Fumihiko Akagi
+    Copyright (c) 2015 Fumihiko Akaki
 
     Permission is hereby granted, free of charge, to any person obtaining a copy of this
     software and associateddocumentation files (the "Software"), to deal in the Software
